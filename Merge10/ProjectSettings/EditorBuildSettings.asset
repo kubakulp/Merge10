@@ -1,0 +1,305 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 82bf50971b1ba3649adf3904ab0afda0
+  - enabled: 1
+    path: Assets/Scenes/chooseLevel.unity
+    guid: 12c754260cd730745ae32c81a6ca14b3
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: c83febad2d7571641a3e9ed5b3ad442e
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 78b22f2f2a7fa6b44ba112d0c062b606
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 68351eac2d0f6174b9b9589eeb70802e
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: d9e0e159322b60241b8160f4d4c93016
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: f4226bc39430ce3478402b673746cc3b
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: 6c76caa065651874d8e6de332cbcac07
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: 9aa253128e834494dab6d16e8b47a3bd
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: 4f385fe19efecf642bb1858965c7b5e2
+  - enabled: 1
+    path: Assets/Scenes/Level9.unity
+    guid: 263804481fec5c64bbd27554a5d04933
+  - enabled: 1
+    path: Assets/Scenes/Level10.unity
+    guid: 3af4dbbd9f148c849931128f138c768c
+  - enabled: 1
+    path: Assets/Scenes/chooseLevel1.unity
+    guid: 6db521579b8ad4d499af6d0d07813aee
+  - enabled: 1
+    path: Assets/Scenes/Level11.unity
+    guid: 11735ee209389b740b9b6bd18ba3ae8f
+  - enabled: 1
+    path: Assets/Scenes/Level12.unity
+    guid: 167be0c10b1489c4cba1f1d33707f4f3
+  - enabled: 1
+    path: Assets/Scenes/Level13.unity
+    guid: 6bcdd43c53385d547894ec9f73a76223
+  - enabled: 1
+    path: Assets/Scenes/Level14.unity
+    guid: 17e1e954d74690a4bbf491d8a9d07251
+  - enabled: 1
+    path: Assets/Scenes/Level15.unity
+    guid: f17ca0d7df5f2b948984fcd2ecb27dd8
+  - enabled: 1
+    path: Assets/Scenes/Level16.unity
+    guid: 0dd80ecd25e2c4c40bf3675bff58fa9e
+  - enabled: 1
+    path: Assets/Scenes/Level17.unity
+    guid: 6d459b625a95cb043b8b0b9a526a322f
+  - enabled: 1
+    path: Assets/Scenes/Level18.unity
+    guid: 07cff6bb5b077aa4683d5aeba5ab1164
+  - enabled: 1
+    path: Assets/Scenes/Level19.unity
+    guid: 97f1813a576007f449287c4756a3d988
+  - enabled: 1
+    path: Assets/Scenes/Level20.unity
+    guid: 3d8a9a108e607244fb67e14fdc8ccd34
+  - enabled: 1
+    path: Assets/Scenes/chooseLevel2.unity
+    guid: 9cfa8de9dc0eb4242839ecc205607a70
+  - enabled: 1
+    path: Assets/Scenes/Level21.unity
+    guid: ed2d307c74ce10e44843628da4a359f7
+  - enabled: 1
+    path: Assets/Scenes/Level22.unity
+    guid: e7c4c834ab4f332419f4c09c661c4af7
+  - enabled: 1
+    path: Assets/Scenes/Level23.unity
+    guid: 8c51ece1e9f13f44db1a01292a843fe5
+  - enabled: 1
+    path: Assets/Scenes/Level24.unity
+    guid: ab20d8b5cadb697429fee336a109d06f
+  - enabled: 1
+    path: Assets/Scenes/Level25.unity
+    guid: 04b4a9cf402217a44982058840475b0a
+  - enabled: 1
+    path: Assets/Scenes/Level26.unity
+    guid: f82291ee0eaca2a44bda4de67f2cf233
+  - enabled: 1
+    path: Assets/Scenes/Level27.unity
+    guid: 9c5f1c453fe83f146b768e718acc14ae
+  - enabled: 1
+    path: Assets/Scenes/Level28.unity
+    guid: 32341971354cf264dbbf55e245e1813e
+  - enabled: 1
+    path: Assets/Scenes/Level29.unity
+    guid: a07ee1d54576b964d8ce81bb2ff04375
+  - enabled: 1
+    path: Assets/Scenes/Level30.unity
+    guid: a72811901695dfc49b3f194c688c2cd3
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel1.unity
+    guid: 38201c7d7bd2aac45bc33ba2c6f35e67
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel2.unity
+    guid: bfebe195c0b203941860294c82829967
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel3.unity
+    guid: 349d7179dde11fb4ab05d1d758f97312
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel4.unity
+    guid: 0e0d638806d10b847874d436161056a3
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel5.unity
+    guid: 443946e925aa1a844a642f3e0e24cba5
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel6.unity
+    guid: 50c242d2a3a2d7b45bf8873f249c8a1a
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel7.unity
+    guid: 798138e0f96e95a499d7287ab6b95546
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel8.unity
+    guid: 1acd84748f8661645a3bda9b28b625e3
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel9.unity
+    guid: c85f7fc97509d2a46b5642871a6d2038
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel10.unity
+    guid: 88a36e092df040a47b4a6e8985cf4f35
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel11.unity
+    guid: 6ec0bf8c08c1df640996d4f6bc4087ab
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel12.unity
+    guid: 753b22bb93170e140b17cdf61ec23a7b
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel13.unity
+    guid: 0ad8b9409bf7fbb418acb86ee62b15a3
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel14.unity
+    guid: d73ea6f8b751b5240bc3b86888e38c4c
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel15.unity
+    guid: 5c38be9a8c0152a40bcc7becdbdf69e9
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel16.unity
+    guid: 2b16dc1eed12e844899a4b3790fde157
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel17.unity
+    guid: 0b78c5627a499c94f94d860d998d6d96
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel18.unity
+    guid: 8b6939e28cdfcf4428a3e8a29221a1d2
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel19.unity
+    guid: 9b5e6c2a7104f66489fb2ded44fbdfcd
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel20.unity
+    guid: b1a445bfdfbb3ad49acc031308e7ebbb
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel21.unity
+    guid: c6c9939fadfeb694796f42a1f6c72837
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel22.unity
+    guid: 70362a7ac432cba489217f659008feba
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel23.unity
+    guid: 0955f19e5e7121d498470889e3c32ec1
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel24.unity
+    guid: c67e2123bc4e6db41be45becafbadb9a
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel25.unity
+    guid: b4cdf9b029baf7846af8ff51d598e8bf
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel26.unity
+    guid: 2247f0abaec4fb9499a1fa430bbe75f2
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel27.unity
+    guid: 1f32129ce7bef354f8ab62f28d3c6c02
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel28.unity
+    guid: 0106ff4cf523dae41ad04d37ff05a5e2
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel29.unity
+    guid: 2099c0288c9ec934a8fc8c69dbb31a75
+  - enabled: 1
+    path: Assets/Scenes/gameOverLevel30.unity
+    guid: 1caaffcc8619a8547b18a4ec30e8d425
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete1.unity
+    guid: 620f9b1cfa1b3f146b29c23dd3e80768
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete2.unity
+    guid: 84c91e598a9eda44bb0ae8b72b6ea92c
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete3.unity
+    guid: 374cece8598cb684bb161897b0192cd0
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete4.unity
+    guid: 5233cc4cf1dfadd4fa8ce0fc8e305717
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete5.unity
+    guid: 995d1d1657b1fde469b58a6225e5c12d
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete6.unity
+    guid: 9eab517f4ce6f60448af78d09918241e
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete7.unity
+    guid: f9240f70519b57d448d5b8ebcb597118
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete8.unity
+    guid: cb4bc7aa17c1db04997ed6a80e8157b3
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete9.unity
+    guid: 5994c5003def1f241a86e56459c5ed09
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete10.unity
+    guid: be297ca4189e6824aa93021b413fd07f
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete11.unity
+    guid: 6330744a6f7cc694cbf8d6085ed0b930
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete12.unity
+    guid: 740cd3d42ee984f44914f5bfc7895572
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete13.unity
+    guid: 43a79b80298659f4c82cb6bf18beba48
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete14.unity
+    guid: 9646a83c2e95e144db8a0f89b3cde4b4
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete15.unity
+    guid: d77c156566142a448ba7a1ae137c040f
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete16.unity
+    guid: 9872efebae454734f90877bf279b0906
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete17.unity
+    guid: cfb0e6a0df454e84ab012a5a059f50ba
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete18.unity
+    guid: a3d6a7514d5e419478bd76a631242205
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete19.unity
+    guid: 26a53becee975384aa6a77e04366cd66
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete20.unity
+    guid: 4da7a2cd18fcce4458e8e22ee42d77c7
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete21.unity
+    guid: f29267b4c76b8cf4e85ff13c4cd01a03
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete22.unity
+    guid: c5df15df25f1e444aba7e7926d2bd2c5
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete23.unity
+    guid: 156ebae057e0e6040847f10cb594165d
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete24.unity
+    guid: d433179466b2ccc429288cc25fb9edce
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete25.unity
+    guid: 3a12e20dd1c50444dbd489d65178c144
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete26.unity
+    guid: d8cb65b98ccc43a4badfeccf13ca97c1
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete27.unity
+    guid: 030ce7709ec5cc342b37330199ba3223
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete28.unity
+    guid: 93f10e537e152fb4d8adf47d31f823ec
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete29.unity
+    guid: 2c2b3ee909c0ba04794e98746b0bda02
+  - enabled: 1
+    path: Assets/Scenes/LevelComplete30.unity
+    guid: c03a00b77cbe7094d8c36dda0ee141f1
+  - enabled: 1
+    path: Assets/Scenes/newGame.unity
+    guid: 5fd8885227df1044ea7f51e8e2c78e82
+  - enabled: 1
+    path: Assets/Scenes/gameOver.unity
+    guid: e2f3eecbe9fbb844cbfcf6d405093e77
+  - enabled: 1
+    path: Assets/Scenes/LastLevel.unity
+    guid: 8fd76213109febb40ab8e39ad5324d8b
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay1.unity
+    guid: d44be02b5421aa54682626f13fee580f
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: 4c11bfdafdf144e40a0ed2e572836845
+  m_configObjects: {}
